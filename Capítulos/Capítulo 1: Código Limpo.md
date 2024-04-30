@@ -38,3 +38,15 @@ Apesar de você ter entendido o que foi abordado, saber diferenciar um código b
 Para tal é necessário disciplina em pequenos hábitos que envolvem uma habilidade sensível de "limpeza".
 
 Sem essa "sensibilidade" é possível ver a bagunça num código, mas não será possível arrumar. Tornando quem consegue criar um código limpo num **artista**.
+
+## O que é um Código Limpo?
+São muitas as definições de um código limpo, portanto, a seguir as respostas de alguns programadores experientes:
+
+### Bjarne Stroustrup, criador do C++ e autor do livro *A linguagem de programação C++*
+>Gosto do meu código elegante e eficiente. A lógica deve ser direta para dificultar o encobrimento de bugs, as dependências mínimas para facilitar a manutenção, o tratamento de 
+errocompleto de acordo com uma estratégia clara e o desempenho próximo do mais eficiente de modo a não incitar as pessoas a tornarem o código confuso com otimizações sorrateiras. O 
+código limpo faz bem apenas uma coisa.
+<div align="center">
+  <img height="280" alt="Bjarne Stroustrup" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*blw_iPm17mA3xkoyupvhXQ.png"/>
+  <p align="center"><em>Bjarne Stroustrup</em></p>
+</div>
